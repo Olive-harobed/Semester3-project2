@@ -1,0 +1,7 @@
+.terraform/
+*.hcl
+*.cfg
+*.pem
+*.tfstate
+*.tfstate.backup
+*.tfvars
