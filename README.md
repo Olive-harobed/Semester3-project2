@@ -5,5 +5,5 @@ Create an Ansible script that uses the host-inventory file Terraform created to 
 Your project is complete when one visits terraform-test.yoursdmain.com and it shows the content from your instances, while rotating between the servers as your refresh to display their unique content.<br>
 Submit both the Ansible and Terraform files created <br>
 
-url - http://terraform-test.deb-ops.live/
+
 
